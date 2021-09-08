@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- A tag html é o bloco geral do documento hml -->
+<html lang="pt-br">
+
+<!-- A tag head é responsável pela configução do site como o navegador vai mostrar -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Meu Primeiro Site na Web</title>
+	<style>
+		body{
+			background-color: #A2C1E0;
+		}
+		h1, p{
+			color: black;
+		}
+		em{
+			color: red;
+		}
+		.pessoal{
+			color: greenyellow;
+		}
+		.local{
+			color: blueviolet;
+		}
+		
+	</style>
+	
+</head>
+<!-- A tag body é o corpo do Site - o que vai ser apresentado no navegador -->
+<body>
+	
+	<h1>Cadastrado de Vacina 2021</h1>
+	<p>Esse site é responsável pelo cadastro da população em nossa cidade - Pacatuba - Ce</p>
+	<p><em>*Atualizem os seus dados para não ter problema...</em></p>
+
+	<fieldset>
+		<legend><h3 class="pessoal">Dados pessoais</h3></legend>
+		<p>Nome: <input type="text" name="nome" size="40px"></p>
+		<p>CPF: <input type="text" name="cpf"></p>
+		<p>Telefone <input type="tel" name="tel"></p>
+		<p>Email: <input type="mail" name="mail"></p>
+		<p>Data de Nascimento: <input type="date" name="data"></p>
+		<p>Número do cartão do SUS: <input type="text" name="sus"></p>
+	</fieldset>
+
+	<fieldset>
+		<legend><h3 class="local">Dados Localidades</h3></legend>
+		<p>Rua: <input type="text" name="rua" size="40px"></p>
+		<p>Bairro: <input type="text" name="bairro" size="20px"></p>
+		<p>CEP: <input type="text" name="cep" size="10px"></p>
+		<p>Cidade: <input type="text" name="city" size="15px"></p>
+		<p><input type="submit" name="btn-botao" value="Enviar"></p>
+	</fieldset>
+</body>
+</html>
