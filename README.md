@@ -23,5 +23,5 @@ Esse projeto tem como objetivo ao ensino de HTML/CSS com a turma do 1º ano de I
 </div>
  <br>
  <br>
-<p align="right">"A educação faz o maior impacto que a vida pode enfrentar, vamos juntos nessa jornada"</p>
+<p align="right">"A educação faz o maior impacto que a vida pode enfrentar, vamos juntos nessa jornada."</p>
 
