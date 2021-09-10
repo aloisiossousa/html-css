@@ -9,7 +9,7 @@ Esse projeto tem como objetivo ao ensino de HTML/CSS com a turma do 1º ano de I
 ##
 <div>
  - <a href="https://www.sublimetext.com/3">Editor Sublime Text 3</a> <br>
- - <a href="https://code.visualstudio.com/download">Editor Visual code Studio</a> <br>
+ - <a href="https://code.visualstudio.com/download">Editor Visual Studio Code</a> <br>
  - <a href="https://atom.br.uptodown.com/windows">Editor ATom</a>
 </div>
 
