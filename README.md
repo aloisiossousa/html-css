@@ -14,7 +14,7 @@ Esse projeto tem como objetivo ao ensino de HTML/CSS com a turma do 1º ano de I
 </div>
 
 ##
-<h4 align="center">🔧 &nbspn;&bsp;;Ferramentas usadas para criação de Código online</h4>
+<h4 align="center">🔧 &nbsp;&nbsp;Ferramentas usadas para criação de Código online</h4>
 
 ##
 <div>
