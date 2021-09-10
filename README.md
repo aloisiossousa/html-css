@@ -2,7 +2,8 @@
 
 Esse projeto tem como objetivo ao ensino de HTML/CSS com a turma do 1º ano de Informática da EEEP Professora Luíza de Teodoro Vieira
 <h3 align="center">Autor das aulas - Professor Aloísio Silva de Sousa</h3>
------------------------------------------------------------------------------------------------------------------------------
+
+##
 <h4 align="center">Ferramentas usadas para criação de Código</h4>
 -----------------------------------------------------------------------------------------------------------------------------
 <div>
