@@ -5,16 +5,16 @@ Esse projeto tem como objetivo ao ensino de HTML/CSS com a turma do 1º ano de I
 
 ##
 <h4 align="center">Ferramentas usadas para criação de Código</h4>
------------------------------------------------------------------------------------------------------------------------------
+##
 <div>
  - <a href="https://www.sublimetext.com/3">Editor Sublime Text 3</a> <br>
  - <a href="https://code.visualstudio.com/download">Editor Visual code Studio</a> <br>
  - <a href="https://atom.br.uptodown.com/windows">Editor ATom</a>
 </div>
 <div>
-  -----------------------------------------------------------------------------------------------------------------------------
+ ##
   <h4 align="center">Ferramentas usadas para criação de Código online</h4>
-  -----------------------------------------------------------------------------------------------------------------------------
+ ##
   <br>
   - <a href="https://codepen.io/">Editor Codepen</a> <br>
   - <a href="https://html-css-js.com/">Editor Html-Css-Js.com</a> <br>
